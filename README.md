@@ -1,2 +1,2 @@
 # Kotlin
-The repo fir the Kotlin codes for the mobile development 
+The repo for the Kotlin codes for the mobile development 
